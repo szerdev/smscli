@@ -1,0 +1,5 @@
+login: "<your_system_id>"
+password: "<your_password>"
+system_addr: "111"
+smsc_host: "127.0.0.1:3600"
+
